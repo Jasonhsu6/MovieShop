@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xsp7UKNifKSLrStHBPCP7pMI6JEf1Ijs2Yi1sXKHsfLuEwCDj9CnwpBhDxfeTVBfnTDGJACZrY6Fgeh3eLM4Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xugao\\Desktop\\Antra\\week5 ASP.NET\\MovieShop\\MovieShop\\MovieShop.Core\\MovieShop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xugao\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

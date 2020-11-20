@@ -1,0 +1,12 @@
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.deps.json
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.dll
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.dll
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.pdb
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csproj.CopyComplete
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.dll
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
