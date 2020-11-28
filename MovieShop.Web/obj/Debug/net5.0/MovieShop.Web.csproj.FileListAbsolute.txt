@@ -72,3 +72,5 @@ C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\bin
 C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\bin\Debug\net5.0\MovieShop.Core.pdb
 C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\bin\Debug\net5.0\MovieShop.Infrastructure.pdb
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_MovieCard.cshtml.g.cs
+C:\Users\Xugao\Desktop\Antra\week5 ASP.NET\MovieShop\MovieShop\MovieShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs

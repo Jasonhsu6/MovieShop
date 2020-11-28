@@ -24,6 +24,7 @@ namespace MovieShop.Core.Entities
         public DateTime? UpdatedDate { get; set; }
         public string UpdatedBy { get; set; }
         public string CreatedBy { get; set; }
+        //public decimal? AvgRating { get; set; }
         // Many to Many relationship
         public ICollection<Trailer> Trailers { get; set; }
         public ICollection<MovieGenre> MovieGenres { get; set; }
